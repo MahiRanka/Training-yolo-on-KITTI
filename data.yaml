@@ -1,0 +1,8 @@
+train: /home/mahi/yolo/dataset/train/images
+val: /home/mahi/yolo/dataset/val/images
+
+nc: 9
+names: ["Car", "Pedestrian", "Van", "Cyclist", "Truck", "Misc", "Tram", "Person_sitting", "DontCare"]
+
+# ["Car": 0, "Pedestrian": 1, "Van": 2, "Cyclist": 3, "Truck": 4, "Misc": 5, "Tram": 6, "Person_sitting": 7, "DontCare":8]
+
